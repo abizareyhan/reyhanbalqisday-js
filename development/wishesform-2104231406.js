@@ -18,7 +18,8 @@ function formSubmitHandler() {
 async function sendData() {
     const configs = {
         'overlayOpacity': 0.75,
-        'spinnerIcon': 'ball-circus',
+        'spinnerIcon': 'square-jelly-box',
+        'spinnerColor': '#9c4048',
         'lockScroll': false,
         'containerID': 'wishes-box',
     };
